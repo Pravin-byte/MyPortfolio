@@ -4,11 +4,8 @@ This is my personal portfolio built with React. It showcases my projects, skills
 
 ## Live Site
 
-[Visit My Portfolio](https://your-portfolio-url.vercel.app)  
+[Visit My Portfolio](https://my-portfolio-one-rust-15.vercel.app/)  
 
-## Resume
-
-[Download My Resume](https://drive.google.com/file/d/18UE8PKtfCcz6dPkG8YlYTimz8OAN4h3d/view?usp=sharing)
 
 ## Tech Stack
 
