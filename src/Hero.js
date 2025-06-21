@@ -58,7 +58,7 @@ function Hero() {
         </p>
         {/* Resume Download Button */}
         <a
-          href="https://drive.google.com/uc?export=download&id=18UE8PKtfCcz6dPkG8YlYTimz8OAN4h3d"
+          href="https://drive.google.com/uc?export=download&id=1jWxLF_aOn3hgiSWAbOoc7TfCSuk6EONP"
           download="Pravin_Resume.pdf"
         >
           <button className="download-btn">Download My Resume</button>
